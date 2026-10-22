@@ -1,8 +1,8 @@
 # 参赛声明 · Contest Declaration
 
 **项目名称**：麦麦年度报告 · McDonald's Annual Food Report
-**仓库地址**：https://github.com/<你的GitHub用户名>/mcd-annual-report
-**参赛者**：<你的姓名>　**GitHub ID**：<你的GitHub用户名>　**联系方式**：<你的邮箱>
+**仓库地址**：https://github.com/vvvvv20252025/mcd-annual-report
+**参赛者**：<你的姓名>　**GitHub ID**：vvvvv20252025　**联系方式**：<你的邮箱>
 
 ---
 
