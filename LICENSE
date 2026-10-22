@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 vvvvv20252025
+Copyright (c) 2026 麦麦年度报告 · McDonald's Annual Food Report contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+本项目为个人非商业作品，与麦当劳中国（McDonald's China）无任何隶属、授权或背书关系。
+「麦当劳」「McDonald's」及相关标识为其权利人所有。本项目使用麦当劳官方 MCP Server 的公开接口，
+仅用于展示如何将公开数据接口转化为个人数据可视化作品，不代表麦当劳官方立场。
