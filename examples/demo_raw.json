@@ -1,0 +1,3512 @@
+{
+  "_fetched_at": "2025-12-31T23:59:00+08:00",
+  "_demo": true,
+  "_note": "脱敏演示数据，与任何真实用户无关。",
+  "_tools": {
+    "order-list": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "list": [
+          {
+            "orderNo": "MCD2025000001",
+            "createTime": "2025-01-26 22:20:06",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 2,
+                "price": 34.71,
+                "energy": 440
+              },
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 22.37,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 91.79
+          },
+          {
+            "orderNo": "MCD2025000002",
+            "createTime": "2025-01-14 03:28:44",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "汉堡",
+                "quantity": 2,
+                "price": 11.27,
+                "energy": 248
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 2,
+                "price": 31.55,
+                "energy": 144
+              },
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 2,
+                "price": 11.79,
+                "energy": 420
+              }
+            ],
+            "totalAmount": 109.22
+          },
+          {
+            "orderNo": "MCD2025000003",
+            "createTime": "2025-01-10 00:58:35",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 38.35,
+                "energy": 467
+              },
+              {
+                "itemName": "麦旋风（原味）",
+                "quantity": 1,
+                "price": 33.23,
+                "energy": 199
+              }
+            ],
+            "totalAmount": 71.58
+          },
+          {
+            "orderNo": "MCD2025000004",
+            "createTime": "2025-01-26 22:58:22",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 42.72,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 42.72
+          },
+          {
+            "orderNo": "MCD2025000005",
+            "createTime": "2025-01-18 11:59:39",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦旋风（原味）",
+                "quantity": 1,
+                "price": 43.06,
+                "energy": 199
+              },
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 9.27,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 52.33
+          },
+          {
+            "orderNo": "MCD2025000006",
+            "createTime": "2025-01-15 12:58:11",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 37.4,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 37.4
+          },
+          {
+            "orderNo": "MCD2025000007",
+            "createTime": "2025-01-26 13:56:41",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 11.52,
+                "energy": 216
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 28.45,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 39.97
+          },
+          {
+            "orderNo": "MCD2025000008",
+            "createTime": "2025-01-21 01:19:51",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 15.58,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 15.58
+          },
+          {
+            "orderNo": "MCD2025000009",
+            "createTime": "2025-01-16 23:01:04",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 11.58,
+                "energy": 388
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 38.18,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 49.76
+          },
+          {
+            "orderNo": "MCD2025000010",
+            "createTime": "2025-02-12 10:57:55",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 35.93,
+                "energy": 503
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 25.37,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 61.3
+          },
+          {
+            "orderNo": "MCD2025000011",
+            "createTime": "2025-02-21 22:26:32",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 23.3,
+                "energy": 467
+              },
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 30.29,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 53.59
+          },
+          {
+            "orderNo": "MCD2025000012",
+            "createTime": "2025-02-26 08:10:14",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 41.89,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 41.89
+          },
+          {
+            "orderNo": "MCD2025000013",
+            "createTime": "2025-02-18 20:27:43",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 2,
+                "price": 22.53,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 45.06
+          },
+          {
+            "orderNo": "MCD2025000014",
+            "createTime": "2025-02-26 21:40:08",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 14.48,
+                "energy": 388
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 2,
+                "price": 23.41,
+                "energy": 388
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 44.33,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 105.63
+          },
+          {
+            "orderNo": "MCD2025000015",
+            "createTime": "2025-02-08 09:19:06",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 14.36,
+                "energy": 388
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 41.85,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 56.21
+          },
+          {
+            "orderNo": "MCD2025000016",
+            "createTime": "2025-03-12 09:12:57",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 44.56,
+                "energy": 467
+              },
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 18.88,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 63.44
+          },
+          {
+            "orderNo": "MCD2025000017",
+            "createTime": "2025-03-02 18:55:47",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 36.13,
+                "energy": 123
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 32.89,
+                "energy": 503
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 20.8,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 89.82
+          },
+          {
+            "orderNo": "MCD2025000018",
+            "createTime": "2025-03-10 12:10:07",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 42.8,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 42.8
+          },
+          {
+            "orderNo": "MCD2025000019",
+            "createTime": "2025-03-06 10:27:12",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 42.89,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 42.89
+          },
+          {
+            "orderNo": "MCD2025000020",
+            "createTime": "2025-03-22 23:04:25",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 31.11,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 31.11
+          },
+          {
+            "orderNo": "MCD2025000021",
+            "createTime": "2025-03-08 07:31:24",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 34.87,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 34.87
+          },
+          {
+            "orderNo": "MCD2025000022",
+            "createTime": "2025-03-26 09:36:27",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 24.5,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 24.5
+          },
+          {
+            "orderNo": "MCD2025000023",
+            "createTime": "2025-03-25 12:17:53",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 15.94,
+                "energy": 420
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 38.54,
+                "energy": 503
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 21.39,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 75.87
+          },
+          {
+            "orderNo": "MCD2025000024",
+            "createTime": "2025-03-13 10:08:52",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 12.91,
+                "energy": 458
+              },
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 31.3,
+                "energy": 440
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 9.48,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 53.69
+          },
+          {
+            "orderNo": "MCD2025000025",
+            "createTime": "2025-03-13 11:37:47",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 1,
+                "price": 11.74,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 11.74
+          },
+          {
+            "orderNo": "MCD2025000026",
+            "createTime": "2025-04-23 08:17:00",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 17.08,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 17.08
+          },
+          {
+            "orderNo": "MCD2025000027",
+            "createTime": "2025-04-26 07:30:47",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 36.5,
+                "energy": 503
+              },
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 33.74,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 70.24
+          },
+          {
+            "orderNo": "MCD2025000028",
+            "createTime": "2025-04-06 12:58:16",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 30.71,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 30.71
+          },
+          {
+            "orderNo": "MCD2025000029",
+            "createTime": "2025-04-26 09:44:56",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 21.06,
+                "energy": 144
+              },
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 39.9,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 60.96
+          },
+          {
+            "orderNo": "MCD2025000030",
+            "createTime": "2025-04-20 10:34:13",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 13.42,
+                "energy": 113
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 25.96,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 39.38
+          },
+          {
+            "orderNo": "MCD2025000031",
+            "createTime": "2025-04-15 18:51:18",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 35.33,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 35.33
+          },
+          {
+            "orderNo": "MCD2025000032",
+            "createTime": "2025-04-11 23:46:34",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 17.05,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 17.05
+          },
+          {
+            "orderNo": "MCD2025000033",
+            "createTime": "2025-04-08 10:27:24",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 28.05,
+                "energy": 370
+              },
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 26.86,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 54.91
+          },
+          {
+            "orderNo": "MCD2025000034",
+            "createTime": "2025-04-12 13:20:45",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "苹果派",
+                "quantity": 1,
+                "price": 14.44,
+                "energy": 109
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 39.22,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 53.66
+          },
+          {
+            "orderNo": "MCD2025000035",
+            "createTime": "2025-04-25 22:25:49",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 2,
+                "price": 8.08,
+                "energy": 412
+              },
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 34.4,
+                "energy": 370
+              },
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 21.58,
+                "energy": 360
+              }
+            ],
+            "totalAmount": 72.14
+          },
+          {
+            "orderNo": "MCD2025000036",
+            "createTime": "2025-04-01 16:14:31",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 1,
+                "price": 44.6,
+                "energy": 140
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 41.42,
+                "energy": 503
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 23.62,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 109.64
+          },
+          {
+            "orderNo": "MCD2025000037",
+            "createTime": "2025-05-10 11:52:39",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦旋风（原味）",
+                "quantity": 1,
+                "price": 34.35,
+                "energy": 199
+              }
+            ],
+            "totalAmount": 34.35
+          },
+          {
+            "orderNo": "MCD2025000038",
+            "createTime": "2025-05-01 08:57:37",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 22.86,
+                "energy": 120
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 35.6,
+                "energy": 412
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 15.9,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 74.36
+          },
+          {
+            "orderNo": "MCD2025000039",
+            "createTime": "2025-05-09 22:54:59",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 43.83,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 43.83
+          },
+          {
+            "orderNo": "MCD2025000040",
+            "createTime": "2025-05-09 22:41:06",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 37.96,
+                "energy": 216
+              },
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 44.17,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 82.13
+          },
+          {
+            "orderNo": "MCD2025000041",
+            "createTime": "2025-05-07 13:51:13",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 11.68,
+                "energy": 120
+              }
+            ],
+            "totalAmount": 11.68
+          },
+          {
+            "orderNo": "MCD2025000042",
+            "createTime": "2025-05-05 12:47:21",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 39.49,
+                "energy": 458
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 2,
+                "price": 10.14,
+                "energy": 467
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 31.38,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 91.15
+          },
+          {
+            "orderNo": "MCD2025000043",
+            "createTime": "2025-05-22 08:58:56",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 42.29,
+                "energy": 420
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 19.56,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 61.85
+          },
+          {
+            "orderNo": "MCD2025000044",
+            "createTime": "2025-05-17 10:05:51",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 28.76,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 28.76
+          },
+          {
+            "orderNo": "MCD2025000045",
+            "createTime": "2025-05-06 11:30:40",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 15.51,
+                "energy": 388
+              },
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 22.32,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 37.83
+          },
+          {
+            "orderNo": "MCD2025000046",
+            "createTime": "2025-05-11 11:57:09",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 2,
+                "price": 20.47,
+                "energy": 503
+              },
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 42.32,
+                "energy": 440
+              },
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 38.98,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 122.24
+          },
+          {
+            "orderNo": "MCD2025000047",
+            "createTime": "2025-05-17 11:17:02",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 11.34,
+                "energy": 458
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 20.51,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 31.85
+          },
+          {
+            "orderNo": "MCD2025000048",
+            "createTime": "2025-05-20 13:46:00",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 26.27,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 26.27
+          },
+          {
+            "orderNo": "MCD2025000049",
+            "createTime": "2025-05-21 22:47:28",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 22.63,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 22.63
+          },
+          {
+            "orderNo": "MCD2025000050",
+            "createTime": "2025-05-20 12:40:04",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 2,
+                "price": 39.26,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 78.52
+          },
+          {
+            "orderNo": "MCD2025000051",
+            "createTime": "2025-05-15 19:42:13",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 42.3,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 42.3
+          },
+          {
+            "orderNo": "MCD2025000052",
+            "createTime": "2025-06-15 07:45:04",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 13.6,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 13.6
+          },
+          {
+            "orderNo": "MCD2025000053",
+            "createTime": "2025-06-28 12:23:35",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 16.07,
+                "energy": 420
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 2,
+                "price": 31.27,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 78.61
+          },
+          {
+            "orderNo": "MCD2025000054",
+            "createTime": "2025-06-25 13:29:53",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 2,
+                "price": 36.34,
+                "energy": 440
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 34.94,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 107.62
+          },
+          {
+            "orderNo": "MCD2025000055",
+            "createTime": "2025-06-05 12:25:28",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 41.28,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 41.28
+          },
+          {
+            "orderNo": "MCD2025000056",
+            "createTime": "2025-06-11 16:33:12",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 2,
+                "price": 11.92,
+                "energy": 503
+              },
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 20.42,
+                "energy": 120
+              },
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 32.25,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 76.51
+          },
+          {
+            "orderNo": "MCD2025000057",
+            "createTime": "2025-06-14 03:28:09",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 9.13,
+                "energy": 388
+              },
+              {
+                "itemName": "苹果派",
+                "quantity": 1,
+                "price": 19.87,
+                "energy": 109
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 10.87,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 39.87
+          },
+          {
+            "orderNo": "MCD2025000058",
+            "createTime": "2025-06-17 23:00:25",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 17.82,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 17.82
+          },
+          {
+            "orderNo": "MCD2025000059",
+            "createTime": "2025-06-23 02:54:26",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 16.51,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 16.51
+          },
+          {
+            "orderNo": "MCD2025000060",
+            "createTime": "2025-06-22 10:32:57",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 1,
+                "price": 41.76,
+                "energy": 140
+              }
+            ],
+            "totalAmount": 41.76
+          },
+          {
+            "orderNo": "MCD2025000061",
+            "createTime": "2025-06-06 13:00:09",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 35.05,
+                "energy": 412
+              },
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 10.66,
+                "energy": 216
+              },
+              {
+                "itemName": "玉米杯",
+                "quantity": 1,
+                "price": 19.46,
+                "energy": 102
+              }
+            ],
+            "totalAmount": 65.17
+          },
+          {
+            "orderNo": "MCD2025000062",
+            "createTime": "2025-06-20 09:56:49",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "黄金鸡块（6 块）",
+                "quantity": 1,
+                "price": 45.0,
+                "energy": 270
+              },
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 31.34,
+                "energy": 360
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 12.5,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 88.84
+          },
+          {
+            "orderNo": "MCD2025000063",
+            "createTime": "2025-06-24 13:50:50",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 1,
+                "price": 18.59,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 18.59
+          },
+          {
+            "orderNo": "MCD2025000064",
+            "createTime": "2025-06-11 17:17:46",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 2,
+                "price": 22.4,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 44.8
+          },
+          {
+            "orderNo": "MCD2025000065",
+            "createTime": "2025-06-24 16:26:23",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 12.5,
+                "energy": 412
+              },
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 15.05,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 27.55
+          },
+          {
+            "orderNo": "MCD2025000066",
+            "createTime": "2025-06-20 03:46:31",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 34.1,
+                "energy": 388
+              },
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 2,
+                "price": 16.71,
+                "energy": 140
+              }
+            ],
+            "totalAmount": 67.52
+          },
+          {
+            "orderNo": "MCD2025000067",
+            "createTime": "2025-06-24 21:42:57",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "玉米杯",
+                "quantity": 1,
+                "price": 42.71,
+                "energy": 102
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 12.33,
+                "energy": 467
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 30.59,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 85.63
+          },
+          {
+            "orderNo": "MCD2025000068",
+            "createTime": "2025-06-21 18:25:59",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡翅（2 块）",
+                "quantity": 2,
+                "price": 42.41,
+                "energy": 196
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 15.53,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 100.35
+          },
+          {
+            "orderNo": "MCD2025000069",
+            "createTime": "2025-06-04 22:22:57",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 19.14,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 19.14
+          },
+          {
+            "orderNo": "MCD2025000070",
+            "createTime": "2025-06-15 11:01:17",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 9.21,
+                "energy": 295
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 21.25,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 30.46
+          },
+          {
+            "orderNo": "MCD2025000071",
+            "createTime": "2025-06-07 23:29:43",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 40.57,
+                "energy": 467
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 12.93,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 53.5
+          },
+          {
+            "orderNo": "MCD2025000072",
+            "createTime": "2025-06-25 10:04:26",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 2,
+                "price": 9.48,
+                "energy": 503
+              },
+              {
+                "itemName": "苹果派",
+                "quantity": 1,
+                "price": 41.92,
+                "energy": 109
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 12.4,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 73.28
+          },
+          {
+            "orderNo": "MCD2025000073",
+            "createTime": "2025-06-14 14:11:05",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 26.16,
+                "energy": 360
+              }
+            ],
+            "totalAmount": 26.16
+          },
+          {
+            "orderNo": "MCD2025000074",
+            "createTime": "2025-06-27 07:02:06",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 18.73,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 18.73
+          },
+          {
+            "orderNo": "MCD2025000075",
+            "createTime": "2025-07-14 22:10:16",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 41.53,
+                "energy": 458
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 21.13,
+                "energy": 412
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 33.17,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 95.83
+          },
+          {
+            "orderNo": "MCD2025000076",
+            "createTime": "2025-07-27 07:16:10",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 32.43,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 32.43
+          },
+          {
+            "orderNo": "MCD2025000077",
+            "createTime": "2025-07-03 00:47:48",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 36.66,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 36.66
+          },
+          {
+            "orderNo": "MCD2025000078",
+            "createTime": "2025-07-24 18:01:04",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 17.41,
+                "energy": 458
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 43.91,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 61.32
+          },
+          {
+            "orderNo": "MCD2025000079",
+            "createTime": "2025-07-09 09:22:02",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "可乐（中）",
+                "quantity": 2,
+                "price": 33.65,
+                "energy": 144
+              }
+            ],
+            "totalAmount": 67.3
+          },
+          {
+            "orderNo": "MCD2025000080",
+            "createTime": "2025-07-16 09:41:56",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 8.4,
+                "energy": 503
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 2,
+                "price": 32.63,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 73.66
+          },
+          {
+            "orderNo": "MCD2025000081",
+            "createTime": "2025-07-28 03:19:03",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 37.17,
+                "energy": 412
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 14.85,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 52.02
+          },
+          {
+            "orderNo": "MCD2025000082",
+            "createTime": "2025-07-08 09:49:27",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 38.53,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 38.53
+          },
+          {
+            "orderNo": "MCD2025000083",
+            "createTime": "2025-07-03 13:15:22",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 2,
+                "price": 39.14,
+                "energy": 140
+              }
+            ],
+            "totalAmount": 78.28
+          },
+          {
+            "orderNo": "MCD2025000084",
+            "createTime": "2025-07-17 13:25:18",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 34.12,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 34.12
+          },
+          {
+            "orderNo": "MCD2025000085",
+            "createTime": "2025-07-09 22:20:27",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "苹果派",
+                "quantity": 1,
+                "price": 27.39,
+                "energy": 109
+              },
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 21.21,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 48.6
+          },
+          {
+            "orderNo": "MCD2025000086",
+            "createTime": "2025-07-08 01:18:01",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 2,
+                "price": 16.0,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 32.0
+          },
+          {
+            "orderNo": "MCD2025000087",
+            "createTime": "2025-07-24 00:14:31",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 16.05,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 16.05
+          },
+          {
+            "orderNo": "MCD2025000088",
+            "createTime": "2025-07-22 12:16:02",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 18.37,
+                "energy": 120
+              }
+            ],
+            "totalAmount": 18.37
+          },
+          {
+            "orderNo": "MCD2025000089",
+            "createTime": "2025-07-07 11:21:29",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 40.82,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 40.82
+          },
+          {
+            "orderNo": "MCD2025000090",
+            "createTime": "2025-07-27 13:14:31",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 33.74,
+                "energy": 123
+              },
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 11.67,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 45.41
+          },
+          {
+            "orderNo": "MCD2025000091",
+            "createTime": "2025-08-17 11:57:19",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 39.56,
+                "energy": 440
+              },
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 1,
+                "price": 24.28,
+                "energy": 140
+              }
+            ],
+            "totalAmount": 63.84
+          },
+          {
+            "orderNo": "MCD2025000092",
+            "createTime": "2025-08-28 12:55:16",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 1,
+                "price": 15.06,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 15.06
+          },
+          {
+            "orderNo": "MCD2025000093",
+            "createTime": "2025-08-01 20:59:49",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 25.19,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 25.19
+          },
+          {
+            "orderNo": "MCD2025000094",
+            "createTime": "2025-08-24 11:50:04",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "可乐（中）",
+                "quantity": 1,
+                "price": 30.7,
+                "energy": 144
+              },
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 17.77,
+                "energy": 360
+              }
+            ],
+            "totalAmount": 48.47
+          },
+          {
+            "orderNo": "MCD2025000095",
+            "createTime": "2025-08-17 15:01:39",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 2,
+                "price": 27.35,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 54.7
+          },
+          {
+            "orderNo": "MCD2025000096",
+            "createTime": "2025-08-01 11:39:34",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 16.06,
+                "energy": 123
+              },
+              {
+                "itemName": "可乐（中）",
+                "quantity": 2,
+                "price": 26.2,
+                "energy": 144
+              },
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 2,
+                "price": 9.84,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 88.14
+          },
+          {
+            "orderNo": "MCD2025000097",
+            "createTime": "2025-08-11 11:51:56",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 38.03,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 38.03
+          },
+          {
+            "orderNo": "MCD2025000098",
+            "createTime": "2025-08-25 10:51:34",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 26.55,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 26.55
+          },
+          {
+            "orderNo": "MCD2025000099",
+            "createTime": "2025-08-05 12:06:55",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 38.83,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 38.83
+          },
+          {
+            "orderNo": "MCD2025000100",
+            "createTime": "2025-08-03 17:03:19",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 44.63,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 44.63
+          },
+          {
+            "orderNo": "MCD2025000101",
+            "createTime": "2025-08-14 00:13:05",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 25.31,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 25.31
+          },
+          {
+            "orderNo": "MCD2025000102",
+            "createTime": "2025-08-01 22:01:14",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 21.79,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 21.79
+          },
+          {
+            "orderNo": "MCD2025000103",
+            "createTime": "2025-09-19 09:22:29",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 21.68,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 21.68
+          },
+          {
+            "orderNo": "MCD2025000104",
+            "createTime": "2025-09-07 10:27:48",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 43.47,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 43.47
+          },
+          {
+            "orderNo": "MCD2025000105",
+            "createTime": "2025-09-27 11:29:18",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 43.56,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 43.56
+          },
+          {
+            "orderNo": "MCD2025000106",
+            "createTime": "2025-09-24 09:04:01",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 26.44,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 26.44
+          },
+          {
+            "orderNo": "MCD2025000107",
+            "createTime": "2025-09-27 11:37:53",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 16.16,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 16.16
+          },
+          {
+            "orderNo": "MCD2025000108",
+            "createTime": "2025-09-01 15:25:02",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 18.29,
+                "energy": 248
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 9.95,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 28.24
+          },
+          {
+            "orderNo": "MCD2025000109",
+            "createTime": "2025-09-10 01:45:30",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 2,
+                "price": 21.43,
+                "energy": 467
+              },
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 1,
+                "price": 15.47,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 58.33
+          },
+          {
+            "orderNo": "MCD2025000110",
+            "createTime": "2025-09-18 10:02:42",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 2,
+                "price": 27.49,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 54.98
+          },
+          {
+            "orderNo": "MCD2025000111",
+            "createTime": "2025-09-11 13:40:18",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 16.31,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 16.31
+          },
+          {
+            "orderNo": "MCD2025000112",
+            "createTime": "2025-09-05 21:47:21",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 33.74,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 33.74
+          },
+          {
+            "orderNo": "MCD2025000113",
+            "createTime": "2025-09-07 13:56:02",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 12.25,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 12.25
+          },
+          {
+            "orderNo": "MCD2025000114",
+            "createTime": "2025-09-13 17:48:01",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 30.14,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 30.14
+          },
+          {
+            "orderNo": "MCD2025000115",
+            "createTime": "2025-09-24 11:52:21",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 2,
+                "price": 37.71,
+                "energy": 458
+              },
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 10.33,
+                "energy": 360
+              }
+            ],
+            "totalAmount": 85.75
+          },
+          {
+            "orderNo": "MCD2025000116",
+            "createTime": "2025-10-28 03:22:02",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 19.66,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 19.66
+          },
+          {
+            "orderNo": "MCD2025000117",
+            "createTime": "2025-10-16 12:16:36",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 8.31,
+                "energy": 120
+              },
+              {
+                "itemName": "黄金鸡块（6 块）",
+                "quantity": 1,
+                "price": 25.57,
+                "energy": 270
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 40.2,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 74.08
+          },
+          {
+            "orderNo": "MCD2025000118",
+            "createTime": "2025-10-06 13:07:43",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 15.4,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 15.4
+          },
+          {
+            "orderNo": "MCD2025000119",
+            "createTime": "2025-10-14 12:58:55",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 14.4,
+                "energy": 412
+              },
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 34.97,
+                "energy": 370
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 22.06,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 71.43
+          },
+          {
+            "orderNo": "MCD2025000120",
+            "createTime": "2025-10-05 03:38:59",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "苹果派",
+                "quantity": 2,
+                "price": 38.29,
+                "energy": 109
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 10.75,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 87.33
+          },
+          {
+            "orderNo": "MCD2025000121",
+            "createTime": "2025-10-04 15:10:21",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 8.83,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 8.83
+          },
+          {
+            "orderNo": "MCD2025000122",
+            "createTime": "2025-10-16 02:59:05",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 13.57,
+                "energy": 295
+              }
+            ],
+            "totalAmount": 13.57
+          },
+          {
+            "orderNo": "MCD2025000123",
+            "createTime": "2025-10-08 09:55:06",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 44.21,
+                "energy": 113
+              },
+              {
+                "itemName": "黄金鸡块（6 块）",
+                "quantity": 1,
+                "price": 35.63,
+                "energy": 270
+              }
+            ],
+            "totalAmount": 79.84
+          },
+          {
+            "orderNo": "MCD2025000124",
+            "createTime": "2025-10-24 22:42:32",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 2,
+                "price": 17.31,
+                "energy": 216
+              },
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 8.14,
+                "energy": 120
+              }
+            ],
+            "totalAmount": 42.76
+          },
+          {
+            "orderNo": "MCD2025000125",
+            "createTime": "2025-10-25 09:28:54",
+            "payType": "麦当劳支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 26.06,
+                "energy": 458
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 33.19,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 59.25
+          },
+          {
+            "orderNo": "MCD2025000126",
+            "createTime": "2025-10-20 08:52:24",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 38.6,
+                "energy": 440
+              },
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 14.1,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 52.7
+          },
+          {
+            "orderNo": "MCD2025000127",
+            "createTime": "2025-10-22 08:39:19",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 17.65,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 17.65
+          },
+          {
+            "orderNo": "MCD2025000128",
+            "createTime": "2025-10-05 10:21:21",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 27.29,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 27.29
+          },
+          {
+            "orderNo": "MCD2025000129",
+            "createTime": "2025-10-20 18:45:00",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 15.68,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 15.68
+          },
+          {
+            "orderNo": "MCD2025000130",
+            "createTime": "2025-11-20 19:49:16",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 9.04,
+                "energy": 467
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 13.1,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 22.14
+          },
+          {
+            "orderNo": "MCD2025000131",
+            "createTime": "2025-11-04 01:45:36",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 38.94,
+                "energy": 467
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 20.42,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 59.36
+          },
+          {
+            "orderNo": "MCD2025000132",
+            "createTime": "2025-11-28 22:34:13",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 11.97,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 11.97
+          },
+          {
+            "orderNo": "MCD2025000133",
+            "createTime": "2025-11-19 12:10:22",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 37.46,
+                "energy": 216
+              },
+              {
+                "itemName": "雪碧（中）",
+                "quantity": 1,
+                "price": 39.98,
+                "energy": 140
+              }
+            ],
+            "totalAmount": 77.44
+          },
+          {
+            "orderNo": "MCD2025000134",
+            "createTime": "2025-11-09 11:20:04",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 22.24,
+                "energy": 113
+              },
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 15.43,
+                "energy": 388
+              }
+            ],
+            "totalAmount": 37.67
+          },
+          {
+            "orderNo": "MCD2025000135",
+            "createTime": "2025-11-25 11:40:09",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 2,
+                "price": 31.03,
+                "energy": 123
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 18.02,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 80.08
+          },
+          {
+            "orderNo": "MCD2025000136",
+            "createTime": "2025-11-18 02:04:48",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 22.01,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 22.01
+          },
+          {
+            "orderNo": "MCD2025000137",
+            "createTime": "2025-11-19 07:57:49",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 19.13,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 19.13
+          },
+          {
+            "orderNo": "MCD2025000138",
+            "createTime": "2025-11-09 08:08:04",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 23.18,
+                "energy": 120
+              },
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 30.29,
+                "energy": 113
+              },
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 2,
+                "price": 14.24,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 81.95
+          },
+          {
+            "orderNo": "MCD2025000139",
+            "createTime": "2025-11-23 03:59:19",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 24.55,
+                "energy": 216
+              },
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 42.06,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 66.61
+          },
+          {
+            "orderNo": "MCD2025000140",
+            "createTime": "2025-11-25 23:17:07",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 38.88,
+                "energy": 503
+              },
+              {
+                "itemName": "汉堡",
+                "quantity": 1,
+                "price": 31.94,
+                "energy": 248
+              }
+            ],
+            "totalAmount": 70.82
+          },
+          {
+            "orderNo": "MCD2025000141",
+            "createTime": "2025-11-07 10:44:07",
+            "payType": "麦当劳支付",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 2,
+                "price": 25.31,
+                "energy": 388
+              },
+              {
+                "itemName": "吉士蛋麦满分",
+                "quantity": 1,
+                "price": 39.96,
+                "energy": 350
+              }
+            ],
+            "totalAmount": 90.58
+          },
+          {
+            "orderNo": "MCD2025000142",
+            "createTime": "2025-11-14 13:26:55",
+            "payType": "银联卡",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 38.71,
+                "energy": 458
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 2,
+                "price": 18.69,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 76.09
+          },
+          {
+            "orderNo": "MCD2025000143",
+            "createTime": "2025-11-16 00:55:45",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 12.9,
+                "energy": 467
+              },
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 39.36,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 52.26
+          },
+          {
+            "orderNo": "MCD2025000144",
+            "createTime": "2025-11-08 22:26:35",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "黄金鸡块（6 块）",
+                "quantity": 1,
+                "price": 38.26,
+                "energy": 270
+              }
+            ],
+            "totalAmount": 38.26
+          },
+          {
+            "orderNo": "MCD2025000145",
+            "createTime": "2025-11-01 01:32:17",
+            "payType": "微信支付",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "麦旋风（原味）",
+                "quantity": 1,
+                "price": 24.42,
+                "energy": 199
+              }
+            ],
+            "totalAmount": 24.42
+          },
+          {
+            "orderNo": "MCD2025000146",
+            "createTime": "2025-12-10 08:59:01",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 29.87,
+                "energy": 440
+              }
+            ],
+            "totalAmount": 29.87
+          },
+          {
+            "orderNo": "MCD2025000147",
+            "createTime": "2025-12-05 03:28:55",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "麦香鱼",
+                "quantity": 1,
+                "price": 11.76,
+                "energy": 370
+              }
+            ],
+            "totalAmount": 11.76
+          },
+          {
+            "orderNo": "MCD2025000148",
+            "createTime": "2025-12-02 08:36:19",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 41.69,
+                "energy": 412
+              },
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 23.73,
+                "energy": 503
+              }
+            ],
+            "totalAmount": 65.42
+          },
+          {
+            "orderNo": "MCD2025000149",
+            "createTime": "2025-12-18 08:55:45",
+            "payType": "银联卡",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 16.41,
+                "energy": 503
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 44.9,
+                "energy": 467
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 36.72,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 98.03
+          },
+          {
+            "orderNo": "MCD2025000150",
+            "createTime": "2025-12-24 09:42:03",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "麦香鸡",
+                "quantity": 1,
+                "price": 33.16,
+                "energy": 388
+              },
+              {
+                "itemName": "麦辣鸡翅（2 块）",
+                "quantity": 1,
+                "price": 19.27,
+                "energy": 196
+              }
+            ],
+            "totalAmount": 52.43
+          },
+          {
+            "orderNo": "MCD2025000151",
+            "createTime": "2025-12-27 23:17:43",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "万象城餐厅",
+            "items": [
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 40.87,
+                "energy": 420
+              },
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 27.88,
+                "energy": 420
+              }
+            ],
+            "totalAmount": 68.75
+          },
+          {
+            "orderNo": "MCD2025000152",
+            "createTime": "2025-12-15 23:43:50",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "拿铁",
+                "quantity": 1,
+                "price": 22.47,
+                "energy": 120
+              },
+              {
+                "itemName": "烟肉蛋麦满分",
+                "quantity": 1,
+                "price": 43.76,
+                "energy": 420
+              }
+            ],
+            "totalAmount": 66.23
+          },
+          {
+            "orderNo": "MCD2025000153",
+            "createTime": "2025-12-15 02:10:43",
+            "payType": "支付宝",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "圆筒冰淇淋",
+                "quantity": 1,
+                "price": 39.06,
+                "energy": 123
+              }
+            ],
+            "totalAmount": 39.06
+          },
+          {
+            "orderNo": "MCD2025000154",
+            "createTime": "2025-12-04 22:51:17",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 13.34,
+                "energy": 440
+              },
+              {
+                "itemName": "香芋派",
+                "quantity": 1,
+                "price": 33.91,
+                "energy": 113
+              }
+            ],
+            "totalAmount": 47.25
+          },
+          {
+            "orderNo": "MCD2025000155",
+            "createTime": "2025-12-06 22:29:33",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 19.08,
+                "energy": 295
+              },
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 29.88,
+                "energy": 412
+              }
+            ],
+            "totalAmount": 48.96
+          },
+          {
+            "orderNo": "MCD2025000156",
+            "createTime": "2025-12-17 03:09:10",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "吉士汉堡",
+                "quantity": 1,
+                "price": 27.26,
+                "energy": 295
+              },
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 37.51,
+                "energy": 319
+              }
+            ],
+            "totalAmount": 64.77
+          },
+          {
+            "orderNo": "MCD2025000157",
+            "createTime": "2025-12-13 09:41:33",
+            "payType": "支付宝",
+            "orderType": "得来速",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "双层吉士堡",
+                "quantity": 1,
+                "price": 40.14,
+                "energy": 440
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 26.85,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 66.99
+          },
+          {
+            "orderNo": "MCD2025000158",
+            "createTime": "2025-12-26 11:15:30",
+            "payType": "支付宝",
+            "orderType": "餐厅自取",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "薯条（大）",
+                "quantity": 1,
+                "price": 14.46,
+                "energy": 412
+              },
+              {
+                "itemName": "麦辣鸡腿堡",
+                "quantity": 1,
+                "price": 33.6,
+                "energy": 458
+              }
+            ],
+            "totalAmount": 48.06
+          },
+          {
+            "orderNo": "MCD2025000159",
+            "createTime": "2025-12-14 02:03:21",
+            "payType": "麦当劳支付",
+            "orderType": "麦乐送",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "猪柳蛋麦满分",
+                "quantity": 1,
+                "price": 30.76,
+                "energy": 360
+              }
+            ],
+            "totalAmount": 30.76
+          },
+          {
+            "orderNo": "MCD2025000160",
+            "createTime": "2025-12-27 01:31:41",
+            "payType": "微信支付",
+            "orderType": "麦乐送",
+            "storeName": "中央广场店",
+            "items": [
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 8.9,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 8.9
+          },
+          {
+            "orderNo": "MCD2025000161",
+            "createTime": "2025-12-18 23:30:39",
+            "payType": "银联卡",
+            "orderType": "餐厅自取",
+            "storeName": "地铁站餐厅",
+            "items": [
+              {
+                "itemName": "薯条（中）",
+                "quantity": 1,
+                "price": 20.65,
+                "energy": 319
+              },
+              {
+                "itemName": "黄金鸡块（6 块）",
+                "quantity": 1,
+                "price": 23.94,
+                "energy": 270
+              },
+              {
+                "itemName": "板烧鸡腿堡",
+                "quantity": 1,
+                "price": 8.95,
+                "energy": 467
+              }
+            ],
+            "totalAmount": 53.54
+          },
+          {
+            "orderNo": "MCD2025000162",
+            "createTime": "2025-12-23 08:44:24",
+            "payType": "微信支付",
+            "orderType": "餐厅自取",
+            "storeName": "科技园餐厅",
+            "items": [
+              {
+                "itemName": "巨无霸",
+                "quantity": 1,
+                "price": 16.12,
+                "energy": 503
+              },
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 1,
+                "price": 41.31,
+                "energy": 216
+              },
+              {
+                "itemName": "麦乐鸡（5 块）",
+                "quantity": 2,
+                "price": 9.0,
+                "energy": 216
+              }
+            ],
+            "totalAmount": 75.43
+          }
+        ],
+        "total": 162
+      }
+    },
+    "mall-order-list": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "list": [],
+        "total": 0
+      }
+    },
+    "list-nutrition-foods": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "foods": [
+          {
+            "foodName": "巨无霸",
+            "energy": 503,
+            "protein": 27.7,
+            "fat": 55.3,
+            "carbohydrate": 45.3,
+            "sodium": 453,
+            "calcium": 126
+          },
+          {
+            "foodName": "双层吉士堡",
+            "energy": 440,
+            "protein": 24.2,
+            "fat": 48.4,
+            "carbohydrate": 39.6,
+            "sodium": 396,
+            "calcium": 110
+          },
+          {
+            "foodName": "麦辣鸡腿堡",
+            "energy": 458,
+            "protein": 25.2,
+            "fat": 50.4,
+            "carbohydrate": 41.2,
+            "sodium": 412,
+            "calcium": 114
+          },
+          {
+            "foodName": "板烧鸡腿堡",
+            "energy": 467,
+            "protein": 25.7,
+            "fat": 51.4,
+            "carbohydrate": 42.0,
+            "sodium": 420,
+            "calcium": 117
+          },
+          {
+            "foodName": "麦香鸡",
+            "energy": 388,
+            "protein": 21.3,
+            "fat": 42.7,
+            "carbohydrate": 34.9,
+            "sodium": 349,
+            "calcium": 97
+          },
+          {
+            "foodName": "麦香鱼",
+            "energy": 370,
+            "protein": 20.4,
+            "fat": 40.7,
+            "carbohydrate": 33.3,
+            "sodium": 333,
+            "calcium": 92
+          },
+          {
+            "foodName": "吉士汉堡",
+            "energy": 295,
+            "protein": 16.2,
+            "fat": 32.5,
+            "carbohydrate": 26.6,
+            "sodium": 266,
+            "calcium": 74
+          },
+          {
+            "foodName": "汉堡",
+            "energy": 248,
+            "protein": 13.6,
+            "fat": 27.3,
+            "carbohydrate": 22.3,
+            "sodium": 223,
+            "calcium": 62
+          },
+          {
+            "foodName": "猪柳蛋麦满分",
+            "energy": 360,
+            "protein": 19.8,
+            "fat": 39.6,
+            "carbohydrate": 32.4,
+            "sodium": 324,
+            "calcium": 90
+          },
+          {
+            "foodName": "吉士蛋麦满分",
+            "energy": 350,
+            "protein": 19.2,
+            "fat": 38.5,
+            "carbohydrate": 31.5,
+            "sodium": 315,
+            "calcium": 88
+          },
+          {
+            "foodName": "烟肉蛋麦满分",
+            "energy": 420,
+            "protein": 23.1,
+            "fat": 46.2,
+            "carbohydrate": 37.8,
+            "sodium": 378,
+            "calcium": 105
+          },
+          {
+            "foodName": "薯条（大）",
+            "energy": 412,
+            "protein": 22.7,
+            "fat": 45.3,
+            "carbohydrate": 37.1,
+            "sodium": 371,
+            "calcium": 103
+          },
+          {
+            "foodName": "薯条（中）",
+            "energy": 319,
+            "protein": 17.5,
+            "fat": 35.1,
+            "carbohydrate": 28.7,
+            "sodium": 287,
+            "calcium": 80
+          },
+          {
+            "foodName": "麦乐鸡（5 块）",
+            "energy": 216,
+            "protein": 11.9,
+            "fat": 23.8,
+            "carbohydrate": 19.4,
+            "sodium": 194,
+            "calcium": 54
+          },
+          {
+            "foodName": "香芋派",
+            "energy": 113,
+            "protein": 6.2,
+            "fat": 12.4,
+            "carbohydrate": 10.2,
+            "sodium": 102,
+            "calcium": 28
+          },
+          {
+            "foodName": "苹果派",
+            "energy": 109,
+            "protein": 6.0,
+            "fat": 12.0,
+            "carbohydrate": 9.8,
+            "sodium": 98,
+            "calcium": 27
+          },
+          {
+            "foodName": "圆筒冰淇淋",
+            "energy": 123,
+            "protein": 6.8,
+            "fat": 13.5,
+            "carbohydrate": 11.1,
+            "sodium": 111,
+            "calcium": 31
+          },
+          {
+            "foodName": "麦旋风（原味）",
+            "energy": 199,
+            "protein": 10.9,
+            "fat": 21.9,
+            "carbohydrate": 17.9,
+            "sodium": 179,
+            "calcium": 50
+          },
+          {
+            "foodName": "玉米杯",
+            "energy": 102,
+            "protein": 5.6,
+            "fat": 11.2,
+            "carbohydrate": 9.2,
+            "sodium": 92,
+            "calcium": 26
+          },
+          {
+            "foodName": "可乐（中）",
+            "energy": 144,
+            "protein": 7.9,
+            "fat": 15.8,
+            "carbohydrate": 13.0,
+            "sodium": 130,
+            "calcium": 36
+          },
+          {
+            "foodName": "雪碧（中）",
+            "energy": 140,
+            "protein": 7.7,
+            "fat": 15.4,
+            "carbohydrate": 12.6,
+            "sodium": 126,
+            "calcium": 35
+          },
+          {
+            "foodName": "拿铁",
+            "energy": 120,
+            "protein": 6.6,
+            "fat": 13.2,
+            "carbohydrate": 10.8,
+            "sodium": 108,
+            "calcium": 30
+          },
+          {
+            "foodName": "麦辣鸡翅（2 块）",
+            "energy": 196,
+            "protein": 10.8,
+            "fat": 21.6,
+            "carbohydrate": 17.6,
+            "sodium": 176,
+            "calcium": 49
+          },
+          {
+            "foodName": "黄金鸡块（6 块）",
+            "energy": 270,
+            "protein": 14.8,
+            "fat": 29.7,
+            "carbohydrate": 24.3,
+            "sodium": 243,
+            "calcium": 68
+          }
+        ],
+        "total": 24
+      }
+    },
+    "query-my-account": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "totalPoints": 4082,
+        "availablePoints": 2796,
+        "expiredPoints": 1286,
+        "expiringPoints": 640,
+        "frozenPoints": 0,
+        "redeemedPoints": 23,
+        "memberLevel": "金拱门会员"
+      }
+    },
+    "query-my-coupons": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "list": [],
+        "total": 0
+      }
+    },
+    "query-my-prizes": {
+      "code": 0,
+      "message": "success",
+      "data": {
+        "list": [],
+        "total": 0
+      }
+    }
+  }
+}
