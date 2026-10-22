@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 含真实用户订单的原始数据 —— 绝不提交
+raw_orders.json
+report_data.json
+麦麦年度报告.html
+report.html
+
+# 真实 Token（保险起见）
+.env
+*.token
+mcp-config.json
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# fill_placeholders.py 生成的原始占位符备份（仅本地留存，不上传）
+.placeholder_backup/
