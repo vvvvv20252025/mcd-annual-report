@@ -25,3 +25,8 @@ Thumbs.db
 
 # fill_placeholders.py 生成的原始占位符备份（仅本地留存，不上传）
 .placeholder_backup/
+
+# WorkBuddy 本地工作区（含未脱敏草稿，绝不提交）
+.workbuddy/
+# 对话上下文导出脚本的中间产物（全量草稿）
+.workbuddy/memory/
