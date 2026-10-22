@@ -6,7 +6,7 @@
 
 接入**麦当劳官方 MCP Server**，把一年的点单史变成一份 Wrapped 式的九屏个人报告。
 
-[![demo](readme-demo.gif)](https://github.com/<你的GitHub用户名>/mcd-annual-report)
+[![demo](readme-demo.gif)](https://github.com/vvvvv20252025/mcd-annual-report)
 
 `162 ORDERS · 103,705 KCAL · 50 LATE NIGHTS` — 这一行，是你的一年。
 
@@ -71,7 +71,7 @@
 **只想看效果？不需要任何 Token，不需要联网：**
 
 ```bash
-git clone https://github.com/<你的GitHub用户名>/mcd-annual-report.git
+git clone https://github.com/vvvvv20252025/mcd-annual-report.git
 cd mcd-annual-report && ./run.sh --demo
 ```
 
