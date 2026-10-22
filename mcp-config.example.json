@@ -1,0 +1,27 @@
+{
+  "_comment": "麦当劳官方 MCP Server 的 MCP 客户端配置示例。本文件仅含环境变量占位符，不含任何真实凭据。复制后请把 ${MCD_MCP_TOKEN} 替换为你的实际 Token，或直接使用下方带占位符的版本由客户端做环境变量替换。",
+  "_applyTo": "将本文件中的 mcpServers 字段合并进你的 MCP 客户端配置文件（如 ~/.workbuddy/mcp.json、~/.cursor/mcp.json）。",
+
+  "mcpServers": {
+    "mcd-mcp": {
+      "_comment": "麦当劳中国官方托管的 MCP Server，Streamable HTTP 传输。官方文档：https://github.com/M-China/mcd-mcp-server",
+      "type": "streamablehttp",
+      "url": "https://mcp.mcd.cn",
+      "headers": {
+        "_comment": "MCP Token 申请地址：https://open.mcd.cn/mcp（登录后进入控制台激活）。请勿把真实 Token 提交到 GitHub。",
+        "Authorization": "Bearer ${MCD_MCP_TOKEN}"
+      }
+    }
+  },
+
+  "_env": {
+    "_comment": "运行 Skill 脚本前请先设置该环境变量。Windows CMD: set MCD_MCP_TOKEN=你的Token；PowerShell: $env:MCD_MCP_TOKEN='你的Token'；macOS/Linux: export MCD_MCP_TOKEN=你的Token",
+    "MCD_MCP_TOKEN": "<在此填入你的 MCP Token，或使用环境变量占位符>"
+  },
+
+  "_notes": [
+    "官方限制：每个 Token 每分钟最多 600 次请求，超限返回 429。本 Skill 串行调用 6 个工具，正常使用不会触发限流。",
+    "错误码 401 表示 Token 无效或已过期，请到 https://open.mcd.cn/mcp 重新申请。",
+    "本 Skill 另提供完全离线的演示模式：python scripts/mcp_fetch.py --demo，无需 Token 与网络。"
+  ]
+}
